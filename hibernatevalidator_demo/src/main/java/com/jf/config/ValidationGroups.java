@@ -1,5 +1,7 @@
 package com.jf.config;
 
+import org.springframework.context.annotation.Configuration;
+
 /**
  * @author seinfish
  * @version 1.0

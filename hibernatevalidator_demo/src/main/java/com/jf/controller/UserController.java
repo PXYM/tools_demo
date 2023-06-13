@@ -2,6 +2,7 @@ package com.jf.controller;
 
 import com.jf.entity.User;
 import org.hibernate.validator.constraints.NotBlank;
+import org.springframework.context.annotation.Import;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

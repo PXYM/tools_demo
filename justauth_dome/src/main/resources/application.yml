@@ -1,0 +1,8 @@
+server:
+  port: 80
+
+wxauth:
+  appid: wx1a8d9f897f7472b4
+  appsecret: 975b86f0bf91311d0514a8bc7d4b1c57
+  token: 54e908dd86c1ca7c
+  url: http://b9imya.natappfree.cc
